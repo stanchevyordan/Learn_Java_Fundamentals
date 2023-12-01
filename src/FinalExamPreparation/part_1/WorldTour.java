@@ -1,4 +1,4 @@
-package FinalExamPreparation;
+package FinalExamPreparation.part_1;
 
 import java.util.Scanner;
 
